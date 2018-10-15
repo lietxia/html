@@ -4,6 +4,8 @@
 
 [简明立直麻雀规则](rule.md)
 
+[申請新賽事](newcs.md)
+
 [算符練習](fupractice.html)
 
 [gimmick:Disqus](lietxia)
