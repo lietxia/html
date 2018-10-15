@@ -7,7 +7,7 @@ QQ 252373009
 
 line : lietxia
 
-E-mail : [lietxia@gmail.com](lietxia@gmail.com)
+E-mail : lietxia@gmail.com
 
 twitter:  [@lietxia](https://twitter.com/lietxia)
 
