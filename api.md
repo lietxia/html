@@ -157,6 +157,7 @@ cls: 1
 
 ## 添加对战记录
 * 请求地址`https://cdn.r-mj.com/edit_class_json.php` 
+`⚠️注意！这不是插入1行。旧记录也要一并提交。`
 * 传入参数
 ```
 cid: 143
