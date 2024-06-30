@@ -2657,12 +2657,12 @@ function googlemapsReady() {
     'use strict';
 
     var themes = [
-        { name: '初始', url: 'cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css' },
-        { name: '蓝色', url: 'cdn.bootcss.com/bootswatch/3.3.7/cerulean/bootstrap.min.css' },
-        { name: '深色', url: 'cdn.bootcss.com/bootswatch/3.3.7/darkly/bootstrap.min.css' },
-        { name: '黑色', url: 'cdn.bootcss.com/bootswatch/3.3.7/cyborg/bootstrap.min.css' },
-        { name: '灰色', url: 'cdn.bootcss.com/bootswatch/3.3.7/slate/bootstrap.min.css' },
-        { name: '橙色', url: 'cdn.bootcss.com/bootswatch/3.3.7/united/bootstrap.min.css' },
+        { name: '初始', url: 's4.zstatic.net/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css' },
+        { name: '蓝色', url: 's4.zstatic.net/ajax/libs/bootswatch/3.4.1/cerulean/bootstrap.min.css' },
+        { name: '深色', url: 's4.zstatic.net/ajax/libs/bootswatch/3.4.1/darkly/bootstrap.min.css' },
+        { name: '黑色', url: 's4.zstatic.net/ajax/libs/bootswatch/3.4.1/cyborg/bootstrap.min.css' },
+        { name: '灰色', url: 's4.zstatic.net/ajax/libs/bootswatch/3.4.1/slate/bootstrap.min.css' },
+        { name: '橙色', url: 's4.zstatic.net/ajax/libs/bootswatch/3.4.1/united/bootstrap.min.css' },
     ];
     var useChooser = false;
     var themeChooserGimmick = {
